@@ -1,0 +1,58 @@
+export const hotspots = [
+  {
+    id: 'control-panel',
+    x: 53,
+    y: 42,
+    title: 'Digital Control Panel',
+    description: 'Touchscreen interface for setting temperature, time, humidity and fan speed.',
+  },
+  {
+    id: 'door-lock',
+    x: 52,
+    y: 23,
+    title: 'Door Lock',
+    description: 'Reinforced key lock system keeps the chamber sealed and secure during operation.',
+  },
+  {
+    id: 'trays-left',
+    x: 34,
+    y: 48,
+    title: 'Food Grade Trays',
+    description: 'Removable stainless mesh trays hold produce for even, hygienic drying.',
+  },
+  {
+    id: 'trays-right',
+    x: 62,
+    y: 48,
+    title: 'Food Grade Trays',
+    description: 'Wide tray spacing allows full airflow contact around every piece of produce.',
+  },
+  {
+    id: 'insulation',
+    x: 25,
+    y: 62,
+    title: 'Insulation',
+    description: 'Double-wall insulated panels retain heat and reduce energy loss.',
+  },
+  {
+    id: 'airflow',
+    x: 66,
+    y: 33,
+    title: 'Air Circulation Fans',
+    description: 'High-velocity fans distribute hot air uniformly across every shelf.',
+  },
+  {
+    id: 'sensors',
+    x: 52,
+    y: 56,
+    title: 'Temperature Sensors',
+    description: 'Precision sensors continuously monitor internal temperature and humidity.',
+  },
+  {
+    id: 'heating',
+    x: 52,
+    y: 78,
+    title: 'Heating Coils',
+    description: 'Industrial heating elements generate consistent, even drying heat.',
+  },
+];
